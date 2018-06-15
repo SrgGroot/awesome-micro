@@ -80,3 +80,4 @@ A collection of awesome things regarding ZEIT's [Micro](https://github.com/zeit/
 - [gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos) - Get the latest public GitHub repos from a user
 - [imagemin-micro](https://github.com/imagemin/imagemin-micro) - Minify images
 - [Caravaggio](https://gitlab.com/ramiel/caravaggio) - Image manipulation proxy
+- [colorhuntapi](https://github.com/SrgGroot/colorhuntapi) - API for recent palettes on [Color Hunt](https://colorhunt.co/)
